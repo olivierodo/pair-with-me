@@ -49,26 +49,33 @@ I'm currently living in Asia (bangkok: GMT+7).
 
 # Menu 2021
 
-## Frontend Testing Meal :racehorse:
+## Craftsman Frontend Testing Meal :racehorse:
 
+> Become a better frontend engineer by pushing the framework to adapt to you need and not the opposite.
 
-> The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
+**Expected level: :muscle: :muscle: **
 
-#### Appetizer (Tooling) :fried_shrimp:
+#### Appetizer (Tooling)
 
-* Open API specification
-* Swagger UI
+* Technologie: Javascript
+* Framework: VueJs
+* Testing library: Jest
 
-#### Main Course (Goal) :bento:
+#### Main Course (Goal)
 
-* Design first Rest API
-* User story writing
+* Clean Architecture: Learn how to Decouple your frontend in order to separate the different usage layers.
+* Test Driven development: Shippable code needs to be tested. The only way to write minigful test is to write them before incrementally along the way with the code.
 
-#### Dessert (Personal Reward) :cake:
+#### Side Dish
+
+* IDE: Vim or VScode
+* CLI: Tmux
+* Deployment: Docker
+
+#### Dessert (Personal Reward) 
 
 * Contribution to open source project
 * Member access to the private community
-
 
 
 
@@ -76,17 +83,16 @@ I'm currently living in Asia (bangkok: GMT+7).
 
 > The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
 
-#### Appetizer (Tooling) :fried_shrimp:
+#### Appetizer (Tooling)
 
 * Open API specification
 * Swagger UI
 
-#### Main Course (Goal) :bento:
+#### Main Course (Goal)
 
 * Design first Rest API
-* User story writing
 
-#### Dessert (Personal Reward) :cake:
+#### Dessert (Personal Reward) 
 
 * Contribution to open source project
 * Member access to the private community
@@ -97,17 +103,17 @@ I'm currently living in Asia (bangkok: GMT+7).
 
 > The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
 
-#### Appetizer (Tooling) :fried_shrimp:
+#### Appetizer (Tooling)
 
 * Open API specification
 * Swagger UI
 
-#### Main Course (Goal) :bento:
+#### Main Course (Goal)
 
 * Design first Rest API
 * User story writing
 
-#### Dessert (Personal Reward) :cake:
+#### Dessert (Personal Reward) 
 
 * Contribution to open source project
 * Member access to the private community
@@ -119,24 +125,22 @@ I'm currently living in Asia (bangkok: GMT+7).
 
 > The testing of API behavior can be challenging, especially if you have to consider different complexity level.
 
-#### Appetizer (Tooling) :fried_shrimp:
+#### Appetizer (Tooling)
 
 * Open API specification
 * Swagger UI
 
-#### Main Course (Goal) :bento:
+#### Main Course (Goal)
 
 * Build an test an API using ATDD (Acceptance Test Driven Development)
 
-#### Dessert (Personal Reward) :cake:
+#### Dessert (Personal Reward)
 
 * Contribution to open source project
 * Member access to the private community
 
 
-
-
-## Kids Menu :girl:
+## Kids Meal :girl:
 
 > Coming Soon
 
