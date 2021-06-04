@@ -31,9 +31,9 @@ This is only remote session by call conference video. But you will have access t
 I am only proposing 1 session per week.
 Book the session on my [calendar](https://savvycal.com/olivierodo/pair-learning)
 
-### Timezone :alarm_clock:
+### Duration :hourglass:
 
-I'm currently living in Asia (bangkok: GMT+7).
+The duration for each session is set to 3 hours maximum.
 
 ### Language :microphone:
 
@@ -43,70 +43,114 @@ The session can be runned in English :uk: or French :fr:
 
 The model is very simple, the first session is FREE however it will be recorded and could be reuse for personal content.
 
----
+### Timezone :alarm_clock:
 
+I'm currently living in Asia (bangkok: GMT+7).
 
 # Menu 2021
 
+## Frontend Testing Meal :racehorse:
 
-## Full Course Meal (3 hours)
 
-* 
+> The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
 
-### Open source contributor Meal (2 hours)
+#### Appetizer (Tooling) :fried_shrimp:
 
-### API Gourmet Meal (2 Hours)
+* Open API specification
+* Swagger UI
 
-The perfect mean for the one that wants to level up their REST API management skills.
-API is more than a technichal 
-
-#### Appetizer
-
-* Open API specification + Swagger UI
-
-#### Main Course
+#### Main Course (Goal) :bento:
 
 * Design first Rest API
 * User story writing
 
-#### Dessert
+#### Dessert (Personal Reward) :cake:
 
-* Continuous delivery
+* Contribution to open source project
+* Member access to the private community
 
-### Automation testing Veggie Meal
 
-#### Appetizer
 
-* Open API specification + Swagger UI
 
-#### Main Course
+## Backend Testing Meal :whale:
+
+> The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
+
+#### Appetizer (Tooling) :fried_shrimp:
+
+* Open API specification
+* Swagger UI
+
+#### Main Course (Goal) :bento:
 
 * Design first Rest API
 * User story writing
 
-#### Dessert
+#### Dessert (Personal Reward) :cake:
 
-* Continuous delivery
+* Contribution to open source project
+* Member access to the private community
 
-### Kids Menu
 
-TBC
 
----
+### API Gourmet Meal 
 
-## A la carte
+> The perfect mean for the one that wants to level up their REST API management skills. API is more than a technichal asset, discover the full power of long life API.
 
-### Appetizer
+#### Appetizer (Tooling) :fried_shrimp:
 
-### Main course
+* Open API specification
+* Swagger UI
 
-### Sides
+#### Main Course (Goal) :bento:
 
-### Kids Menu
+* Design first Rest API
+* User story writing
+
+#### Dessert (Personal Reward) :cake:
+
+* Contribution to open source project
+* Member access to the private community
+
+
+
+
+## API testing Veggie Meal :mushroom:
+
+> The testing of API behavior can be challenging, especially if you have to consider different complexity level.
+
+#### Appetizer (Tooling) :fried_shrimp:
+
+* Open API specification
+* Swagger UI
+
+#### Main Course (Goal) :bento:
+
+* Build an test an API using ATDD (Acceptance Test Driven Development)
+
+#### Dessert (Personal Reward) :cake:
+
+* Contribution to open source project
+* Member access to the private community
+
+
+
+
+## Kids Menu :girl:
+
+> Coming Soon
+
+
+
+## A la carte :notebook_with_decorative_cover:
+
+If you want to compose your own meal, feel free to reach me out at hi@olivier.me
+
+
 
 --- 
 
-## Support
+## Support :bell:
 
 Feel free to support me just by sharing the menu to your network.
 
