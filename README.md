@@ -9,7 +9,7 @@ Version: Beta
 * [Concept](#concept-airplane)
 * [How does it work ?](#how-does-it-work--eyes)
     * [Session](#session-kimono)
-    * [Book a sessin](#book-a-session--calendar)
+    * [Book a session](#book-a-session--calendar)
     * [Duration](#duration-hourglass)
     * [Language](#language-microphone)
     * [Price](#price-moneybag)
