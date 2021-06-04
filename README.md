@@ -65,7 +65,7 @@ This is only remote session by call conference video. But you will have access t
 ### Book a session  :calendar:
 
 I am only proposing 1 session per week.
-Book the session on my [calendar](https://savvycal.com/olivierodo/pair-learning)
+Book the session on my [calendar](https://calendly.com/olivierodo/pair-programming?month=2021-06)
 
 ### Duration :hourglass:
 
@@ -220,7 +220,7 @@ If you want to compose your own meal, feel free to reach me out at hi@olivierodo
 
 ## Book a sesssion :tada:
 
-:point_right: [Click here if you want to book a session](https://savvycal.com/olivierodo/pair-learning) :point_left:
+:point_right: [Click here if you want to book a session](https://calendly.com/olivierodo/pair-programming?month=2021-06) :point_left:
 
 ## Support :bell:
 
