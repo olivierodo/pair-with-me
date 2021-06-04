@@ -1,7 +1,10 @@
 # Pair Programming with a Mentor
 
+Version: Beta
+
 ### Table of Content
 
+* [About Me](#about-me-ghost)
 * [Story](#story-mortar_board)
 * [Concept](#concept-airplane)
 * [How does it work ?](#how-does-it-work--eyes)
@@ -18,28 +21,40 @@
     * [API Testing Veggie Meal](#api-testing-veggie-meal-mushroom)
     * [Kids Meal](#kids-meal-girl)
 * [A la carte](#a-la-carte-notebook_with_decorative_cover)
+* [Book a sesssion](#book-a-sesssion-tada)
 * [Support](#support-bell)
+
+
+## About Me :ghost:
+
+I'm [Olivierodo](https://olivierodo.me), 15 years+ experienced as an engineer, API specialist and most recently maintainer of [RestQA](https://github.com/restqa/restqa).
+
+[Check out my resume](https://github.com/olivierodo/Awesome-CV/releases/download/latest/olivier-rodomond.pdf) for more detail on my different skills.
 
 ## Story :mortar_board:
 
-I'm Olivier, 15 years+ experience engineer, API specialist and maintainer of [RestQA](https://github.com/restqa/restqa).
-[Check out my resume](https://github.com/olivierodo/Awesome-CV/releases/download/latest/olivier-rodomond.pdf) for more detail about my skills.
+During my career I realized that, an engineer sharing what we learn is a key fundamental. It's an exercise that comes naturally with the experience.
+Sometime we share perfectly and feel proud and sometime we might be more clumsy on how we share information. But at the end of the day it is another learning curve that we need to go through.
+The best reward is when someone refer to you as their mentor without you noticing that you where mentoring them :heart:.
 
-During my career I realized that one of my favorite thing is to share what I know with everyone. Sometime from a clumsy way and sometime with a lot of impact.
-And a long the way I realized that I became the mentor of someone just because they started to call me that way.
+However with the time, i met a lot of people and shared a few different topic then i was able to identified a few key topics that people are constently asking me.
 
-Across the time I was able to identify some key topics that people keeps asking me, and i felt that was it's time to create my Official Mentor course.
+Then lately i decided to schedule session of 2 hours every week with one of my team member to do pair programming (the original intention was just for me to not loose track from the code base), but these session are ending up by amazing sharing session that my teamate are craving for.
+This is how the concept is born, **what if i could team up with any one that would be interested by some of my skills ?**
+
+Let's just try then, if you feel interested by any of my skill and want to learn from me. Give a try and [book a session](#book-a-sesssion-tada) :smile:.
 
 ## Concept :airplane: 
 
-Nowadays, internet is providing a LOT of content for learning (udemy, youtube, medium, github, etc...)
+The concept is very simple:  __Learning with a Context = Hacking the learning curve__
 
-However one important part that is missing is the context on how to use the skills... 
-And as human, the best way to remember what we learn is to apply it into the right context.
+Nowadays, internet is providing a LOT of content for self learning (udemy, youtube, medium, github, etc...)
 
-This is why, i want to propose a concept where you can come up an Pair with me in order to solve some problematic on topic that you are interested by
+However one important part that is missing is the context on how to use those fresh skills...  As human, the best way to remember what we just learned is to apply it into the right context.
 
-During the session, I will prepare a feature that you will be able to contribute then you will learn within a context with my support.
+This is why, I want to propose a new exclusive concept where I will dedicate my time on a pairing session with a student in order to solve some problematic related to a specific area.
+
+During the session, I will prepare a feature that the student should contribute to and then learn by truly applying the fresh course to a real life context.
 
 ## How does it work ? :eyes:
 
@@ -62,8 +77,9 @@ The session can be conduced in English :uk: or French :fr:
 
 ### Price :moneybag:
 
-The model is very simple, the session is FREE.
-In exchange I will ask your consent on recording the session for my personal usage.
+As the concept is stiil at a beta stage, the sessions are FREE.
+
+In exchange I will ask your consent on recording the session for my personal promotion.
 
 ### Timezone :alarm_clock:
 
@@ -197,12 +213,16 @@ Expected level: :muscle:
 
 ## A la carte :notebook_with_decorative_cover:
 
-If you want to compose your own meal, feel free to reach me out at hi@olivier.me
+If you want to compose your own meal, feel free to reach me out at hi@olivierodo.me
 
 
 --- 
 
+## Book a sesssion :tada:
+
+:point_right: [Click here if you want to book a session](https://savvycal.com/olivierodo/pair-learning) :point_left:
+
 ## Support :bell:
 
-Feel free to support me just by sharing the menu to your network.
+Feel free to support me just by sharing my concept into your network. :pray:
 
