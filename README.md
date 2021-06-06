@@ -1,4 +1,4 @@
-# Pair Programming with a Mentor
+# Pair with me (Mentorship through Pair programming)
 
 Version: Beta
 
