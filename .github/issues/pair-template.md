@@ -2,7 +2,7 @@
 
 👉 Feel free to book a session by following the instruction here: 
 
-[![badge-pair](https://olivierodo.me/images/pair.png)](https://calendly.com/olivierodo/pair-with-olivierodo/2021-06-13T19:00:00+07:00?month=2021-06&date=2021-06-13&a4=__ISSUE__)
+[![badge-pair](https://olivierodo.me/images/pair.png)](https://github.com/olivierodo/pair-with-me)
 
 ----
 
