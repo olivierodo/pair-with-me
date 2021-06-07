@@ -2,6 +2,8 @@
 
 Version: Beta
 
+[![badge-pair](https://olivierodo.me/images/pair.png)](https://calendly.com/olivierodo/pair-with-olivierodo)
+
 ### Table of Content
 
 * [About Me](#about-me-ghost)
@@ -16,7 +18,7 @@ Version: Beta
     * [Timezone](#timezone-alarm_clock)
 * [Menu](#menu-2021)
     * [Craftsman Frontend Testing Meal](#craftsman-frontend-testing-meal-racehorse)
-    * [Craftsman Backend Testing Meal](#backend-testing-meal-whale)
+    * [Craftsman Backend Testing Meal](#craftsman-backend-testing-meal-whale)
     * [API Gourmet Meal](#api-gourmet-meal-wine_glass)
     * [API Testing Veggie Meal](#api-testing-veggie-meal-mushroom)
     * [Kids Meal](#kids-meal-girl)
@@ -33,13 +35,14 @@ I'm [Olivierodo](https://olivierodo.me), 15 years+ experienced as an engineer, A
 
 ## Story :mortar_board:
 
-During my career I realized that, an engineer sharing what we learn is a key fundamental. It's an exercise that comes naturally with the experience.
-Sometime we share perfectly and feel proud and sometime we might be more clumsy on how we share information. But at the end of the day it is another learning curve that we need to go through.
-The best reward is when someone refer to you as their mentor without you noticing that you where mentoring them :heart:.
+During my career I realized, as engineer we are all learning from someone and resharing what we learned to the others.
+Sometime we share perfectly and feel proud but sometime we might be might not be right person to share.
+Teaching is a part of learning curve that everyone need to go through.
 
-However with the time, i met a lot of people and shared a few different topic then i was able to identified a few key topics that people are constently asking me.
+I personally feels that the best reward is when someone refer to you as their mentor without you noticing that you where mentoring them :heart:.
 
-Then lately i decided to schedule session of 2 hours every week with one of my team member to do pair programming (the original intention was just for me to not loose track from the code base), but these session are ending up by amazing sharing session that my teamate are craving for.
+Lately I decided to schedule session of 2 hours every week with one of my team member pair with them (the original intention was just for me to not loose track from the code base), but those session are ending up by amazing sharing session that my teamate are craving for.
+
 This is how the concept is born, **what if i could team up with any one that would be interested by some of my skills ?**
 
 Let's just try then, if you feel interested by any of my skill and want to learn from me. Give a try and [book a session](#book-a-sesssion-tada) :smile:.
@@ -48,7 +51,7 @@ Let's just try then, if you feel interested by any of my skill and want to learn
 
 The concept is very simple:  __Learning with a Context = Hacking the learning curve__
 
-Nowadays, internet is providing a LOT of content for self learning (udemy, youtube, medium, github, etc...)
+Nowadays, internet is providing a LOT of content in order to learn new skills (udemy, youtube, medium, github, etc...)
 
 However one important part that is missing is the context on how to use those fresh skills...  As human, the best way to remember what we just learned is to apply it into the right context.
 
@@ -65,7 +68,7 @@ This is only remote session by call conference video. But you will have access t
 ### Book a session  :calendar:
 
 I am only proposing 1 session per week.
-Book the session on my [calendar](https://calendly.com/olivierodo/pair-programming?month=2021-06)
+Book the session on my [calendar](https://calendly.com/olivierodo/pair-with-olivierodo)
 
 ### Duration :hourglass:
 
@@ -119,7 +122,7 @@ Level: :muscle: :muscle:
 
 
 
-## Backend Testing Meal :whale:
+## Craftsman Backend Testing Meal :whale:
 
 > Upgrade your backend skill by changing your approach, becmoe more agile and resilient to changes.
 
@@ -220,7 +223,7 @@ If you want to compose your own meal, feel free to reach me out at hi@olivierodo
 
 ## Book a sesssion :tada:
 
-:point_right: [Click here if you want to book a session](https://calendly.com/olivierodo/pair-programming?month=2021-06) :point_left:
+:point_right: [Click here if you want to book a session](https://calendly.com/olivierodo/pair-with-olivierodo) :point_left:
 
 ## Support :bell:
 
