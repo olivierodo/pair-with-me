@@ -2,7 +2,7 @@
 
 👉 Feel free to book a session by following the instruction here: 
 
-[![badge-pair](https://olivierodo.me/images/pair.png)](https://github.com/olivierodo/pair-with-me)
+[![badge-pair](https://olivierodo.me/images/pair.png)](https://calendly.com/olivierodo/pair-with-olivierodo)
 
 ----
 
